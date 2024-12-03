@@ -1,8 +1,11 @@
 {
 	"name": "vite-plugin-sveltekit-extender",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"type": "module",
 	"files": ["src"],
+	"repository": {
+		"url": ""
+	},
 	"exports": {
 		".": "./src/index.js"
 	},
